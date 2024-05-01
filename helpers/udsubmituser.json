@@ -1,0 +1,15 @@
+{
+    "messageSummary": {
+        "traceId": "0HMU8N2K87997:00000001",
+        "messages": [
+            {
+                "title": "User created successfully",
+                "text": "User created successfully.",
+                "code": "7019",
+                "messageIndicatorType": "Information",
+                "messageDisplayType": "All"
+            }
+        ],
+        "isValid": true
+    }
+}

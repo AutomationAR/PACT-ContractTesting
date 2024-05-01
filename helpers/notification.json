@@ -1,0 +1,76 @@
+{
+    "notifications": [
+        {
+            "userNotificationId": "f230dba4-1497-4328-557c-08db9a5ac780",
+            "title": "Upload Failed",
+            "description": "An error has occurred in processing the file",
+            "status": "PENDING",
+            "closeConnetion": true,
+            "createdOn": "2023-08-11T11:05:00.313",
+            "messageIndicatorTypeId": "Error",
+            "notificationErrors": [
+                {
+                  "code": "3045",
+                  "text": "There is no data in sheet to update",
+                  "title": "File upload failed"
+                }
+             ]
+        },
+        {
+            "userNotificationId": "4ca3adaf-a6f5-4cf0-557b-08db9a5ac780",
+            "title": "File Processing",
+            "description": "Data is being validated",
+            "status": "PENDING",
+            "closeConnetion": false,
+            "createdOn": "2023-08-11T11:05:00.123",
+            "messageIndicatorTypeId": "Information",
+            "notificationErrors": []
+        },
+        {
+            "userNotificationId": "a62107bc-8558-48c7-25d9-08db983f4856",
+            "title": "File uploaded successfully",
+            "description": "Group capacity rules uploaded successfully from excel sheet",
+            "status": "PENDING",
+            "closeConnetion": false,
+            "createdOn": "2023-08-11T12:44:08.893",
+            "messageIndicatorTypeId": "Success",
+            "notificationErrors": []
+        },
+        {
+            "userNotificationId": "8c9b4eda-dacc-4dc7-25d8-08db983f4856",
+            "title": "File validated",
+            "description": "File validated and is currently under process. You will be notified shortly",
+            "status": "PENDING",
+            "closeConnetion": false,
+            "createdOn": "2023-08-11T12:44:08.8",
+            "messageIndicatorTypeId": "Information",
+            "notificationErrors": [
+            ]
+        },
+        {
+            "userNotificationId": "a273ffcd-ddb4-4dc8-25d7-08db983f4856",
+            "title": "File Processing",
+            "description": "Data is being validated",
+            "status": "PENDING",
+            "closeConnetion": false,
+            "createdOn": "2023-08-11T12:44:08.5",
+            "messageIndicatorTypeId": "Information",
+            "notificationErrors": []
+        }
+    ],
+        "closeConnection": true,
+        "userName": ".",
+        "messageSummary": {
+            "traceId": "0HMU9E2C0BR2L:00000001",
+            "messages": [
+                {
+                    "title": "Notification Found",
+                    "text": "Notification fetched successfully",
+                    "code": "8001",
+                    "messageIndicatorType": "Information",
+                    "messageDisplayType": "All"
+                }
+            ],
+            "isValid": true
+        }
+}
